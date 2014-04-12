@@ -1,0 +1,4 @@
+jailer
+======
+
+Sinatra authentication module
